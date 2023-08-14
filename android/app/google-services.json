@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "1082350793346",
+    "firebase_url": "https://club-f0ffa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "club-f0ffa",
+    "storage_bucket": "club-f0ffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082350793346:android:986e1240a151eddcb03a9b",
+        "android_client_info": {
+          "package_name": "com.example.club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082350793346-j6k8k71k21u5gpt4299sfukdk4hg7r98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.club",
+            "certificate_hash": "194c5ab4ed283635e0b9fb282aace6e1e4e6614b"
+          }
+        },
+        {
+          "client_id": "1082350793346-ov9oahbtegrmtvh8kuv8gj0ga246qlhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.club",
+            "certificate_hash": "9753229b62807e16589ae89dda57f2fb920deaff"
+          }
+        },
+        {
+          "client_id": "1082350793346-3acp9ht0tne9vvvop3mrndc236p7nplq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdk8LUM4zzTrys5V4YwXqniLgcGmy-bDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082350793346-3acp9ht0tne9vvvop3mrndc236p7nplq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1082350793346-088jcp0pn6omccdgmrtotjoo8csm0nbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.club"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082350793346:android:5a689015e6f93a73b03a9b",
+        "android_client_info": {
+          "package_name": "com.example.club_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082350793346-p0d18iq9oqinoqb4j0l2mtsq5bp5pnnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.club_admin",
+            "certificate_hash": "194c5ab4ed283635e0b9fb282aace6e1e4e6614b"
+          }
+        },
+        {
+          "client_id": "1082350793346-3acp9ht0tne9vvvop3mrndc236p7nplq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdk8LUM4zzTrys5V4YwXqniLgcGmy-bDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082350793346-3acp9ht0tne9vvvop3mrndc236p7nplq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1082350793346-088jcp0pn6omccdgmrtotjoo8csm0nbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.club"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082350793346:android:9b6cb908d76f8d91b03a9b",
+        "android_client_info": {
+          "package_name": "com.example.club_dj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082350793346-3acp9ht0tne9vvvop3mrndc236p7nplq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdk8LUM4zzTrys5V4YwXqniLgcGmy-bDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082350793346-3acp9ht0tne9vvvop3mrndc236p7nplq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1082350793346-088jcp0pn6omccdgmrtotjoo8csm0nbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.club"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
